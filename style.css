@@ -1,3 +1,7 @@
+@import "header.css";
+@import "paragraph.css";
+
+
 body {
  background-color: pink;   
 }
